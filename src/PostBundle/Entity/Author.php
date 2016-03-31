@@ -43,6 +43,7 @@ class Author
         $this->Posts = new ArrayCollection();
     }
 
+    
     /**
      * Get author_id
      *
